@@ -1,0 +1,27 @@
+_repo: Sab_75126
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arteaga, Gertrudis Gómez de Avellaneda y
+    gutenberg_agent_id: '57849'
+    url: http://www.gutenberg.org/2009/agents/57849
+description: ''
+gutenberg_issued: '2025-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75126'
+language: es
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=txu.059172010408820&seq=7
+pgterms:marc905: 20240421052619gmezdeavel
+pgterms:marc906: '1920'
+pgterms:marc907: FR
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bAgencia general de librería, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sab
+url: http://www.gutenberg.org/ebooks/75126
