@@ -1,11 +1,16 @@
 _repo: Sab_75126
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75126-h/images/cover.jpg
 creator:
   author:
     agent_name: Arteaga, Gertrudis Gómez de Avellaneda y
     gutenberg_agent_id: '57849'
     url: http://www.gutenberg.org/2009/agents/57849
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75126#Sab
 gutenberg_issued: '2025-01-17'
 gutenberg_type: Text
 identifiers:
